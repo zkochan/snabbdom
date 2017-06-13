@@ -8,7 +8,9 @@ const booleanAttrs = ["allowfullscreen", "async", "autofocus", "autoplay", "chec
                 "enabled", "formnovalidate", "hidden", "indeterminate", "inert", "ismap", "itemscope", "loop", "multiple",
                 "muted", "nohref", "noresize", "noshade", "novalidate", "nowrap", "open", "pauseonexit", "readonly",
                 "required", "reversed", "scoped", "seamless", "selected", "sortable", "spellcheck", "translate",
-                "truespeed", "typemustmatch", "visible"];
+                "truespeed", "typemustmatch", "visible",
+                // AMP attributes
+                "⚡", "amp", "amp-boilerplate"];
 
 const xlinkNS = 'http://www.w3.org/1999/xlink';
 const xmlNS = 'http://www.w3.org/XML/1998/namespace';
